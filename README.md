@@ -1,5 +1,6 @@
-# python-linked-list
+# python-data-structures
 
-Creating a linked list in Python
+Implementing all major data structures in Python
 
-11/14/2018
+Linked List - 11/14/2018
+
