@@ -8,6 +8,23 @@ Target: Linked List, Doubly Linked List, Stack, Queue, Binary Tree, Binary Searc
 
 11/14/2018 Start - 11/15/2018 End
 
+Linked List.py
+
+Included functions - 
+- Add element
+- Print list
+- Length of list
+- Find element
+- Delete element given value/position
+- Equality to another list by value in each node 
+- Reversing base list
+
+## Doubly Linked List
+
+11/15/2018 Start - 11/15/2018 End
+
+Doubly Linked List.py
+
 Included functions - 
 - Add element
 - Print list
