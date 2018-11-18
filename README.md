@@ -34,4 +34,15 @@ Included functions -
 - Equality to another list by value in each node 
 - Reversing base list
 
+## Stack
+
+11/18/2018 Start - 11/18/2018 End
+
+Stack.py
+
+Included functions - 
+- Push
+- Pop
+- Peek
+- Size of Stack
 
