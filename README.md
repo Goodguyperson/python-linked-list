@@ -46,3 +46,15 @@ Included functions -
 - Peek
 - Size of Stack
 
+## Queue
+
+11/18/2018 Start - 11/18/2018 End
+
+Queue.py
+
+Included functions - 
+- Enqueue
+- Dequeue
+- Peek
+- Size of Queue
+
